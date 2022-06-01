@@ -2,7 +2,7 @@
 
 # 修改APP_NAME为云效上的应用名
 APP_NAME=application
-
+echo "---------------------------------------------"
 
 PROG_NAME=$0
 ACTION=$1
