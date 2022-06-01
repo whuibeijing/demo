@@ -1,0 +1,18 @@
+2022-06-01 21:54:05.610 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 8472 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 21:54:05.615 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 21:54:07.984 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 21:54:08.014 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 21:54:08.018 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 21:54:08.019 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 21:54:08.333 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 21:54:08.334 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2395 ms
+2022-06-01 21:54:09.539 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 21:54:09.567 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 21:54:09.635 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 5.017 seconds (JVM running for 6.132)
+2022-06-01 21:54:22.218 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 21:54:22.218 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 21:54:22.219 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-06-01 21:54:22.266 [http-nio-8080-exec-1] INFO  com.example.demo.DemoApplication - name:aaa
+2022-06-01 21:55:25.640 [http-nio-8080-exec-3] INFO  com.example.demo.DemoApplication - name:aaa
+2022-06-01 21:55:26.981 [http-nio-8080-exec-4] INFO  com.example.demo.DemoApplication - name:aaa
+2022-06-01 21:55:28.498 [http-nio-8080-exec-5] INFO  com.example.demo.DemoApplication - name:aaa

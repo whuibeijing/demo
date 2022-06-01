@@ -1,0 +1,542 @@
+2022-06-01 21:56:40.346 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 8620 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 21:56:40.352 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 21:56:42.535 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 21:56:42.590 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 21:56:42.591 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 21:56:42.593 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 21:56:42.977 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 21:56:42.978 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2276 ms
+2022-06-01 21:56:44.043 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 21:56:44.087 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 21:56:44.113 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 4.94 seconds (JVM running for 5.933)
+2022-06-01 21:56:51.025 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 21:56:51.026 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 21:56:51.029 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2022-06-01 21:56:51.078 [http-nio-8080-exec-1] INFO  com.example.demo.DemoApplication - name:aaa
+2022-06-01 22:04:43.140 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 9114 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:04:43.143 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:04:44.950 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:04:44.959 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 22:04:44.989 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:04:45.968 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 22:04:46.041 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:04:46.044 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:04:46.045 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:04:46.525 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:04:46.526 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3324 ms
+2022-06-01 22:04:48.194 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:04:48.353 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:04:48.414 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 22:04:48.427 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.079 seconds (JVM running for 7.186)
+2022-06-01 22:05:05.340 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:05:05.342 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:05:05.346 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2022-06-01 22:05:24.572 [http-nio-8080-exec-3] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 22:05:29.491 [http-nio-8080-exec-4] INFO  com.example.demo.DemoApplication - name:aaa
+2022-06-01 22:05:33.943 [http-nio-8080-exec-5] INFO  com.example.demo.DemoApplication - name:aaa
+2022-06-01 22:05:35.885 [http-nio-8080-exec-6] INFO  com.example.demo.DemoApplication - name:xxxx
+2022-06-01 22:06:44.593 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 9250 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:06:44.596 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:06:46.911 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:06:46.912 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 22:06:47.012 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:06:48.034 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 22:06:48.049 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:06:48.052 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:06:48.053 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:06:48.507 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:06:48.510 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3773 ms
+2022-06-01 22:06:50.210 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:06:50.320 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:06:50.508 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 22:06:50.546 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.819 seconds (JVM running for 7.879)
+2022-06-01 22:07:04.342 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:07:04.342 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:07:04.343 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:07:07.650 [http-nio-8080-exec-6] INFO  com.example.demo.DemoApplication - name:xxxx
+2022-06-01 22:07:09.253 [http-nio-8080-exec-7] INFO  com.example.demo.DemoApplication - name:xxxx
+2022-06-01 22:08:37.399 [http-nio-8080-exec-3] INFO  com.example.demo.DemoApplication - name:xxxx
+2022-06-01 22:08:38.637 [http-nio-8080-exec-4] INFO  com.example.demo.DemoApplication - name:xxxx
+2022-06-01 22:08:52.264 [http-nio-8080-exec-7] INFO  com.example.demo.DemoApplication - name:xxxx
+2022-06-01 22:08:56.011 [http-nio-8080-exec-9] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:11:24.600 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 9483 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:11:24.604 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:11:26.263 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:11:26.264 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 22:11:26.304 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:11:27.447 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 22:11:27.488 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:11:27.489 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:11:27.491 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:11:27.972 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:11:27.973 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3259 ms
+2022-06-01 22:11:29.803 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:11:29.911 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:11:29.978 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 22:11:30.029 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.232 seconds (JVM running for 7.31)
+2022-06-01 22:11:52.984 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:11:52.985 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:11:53.012 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 25 ms
+2022-06-01 22:12:03.964 [http-nio-8080-exec-8] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:13:19.395 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 9613 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:13:19.398 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:13:21.172 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:13:21.176 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 22:13:21.212 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:13:21.959 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 22:13:22.144 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:13:22.146 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:13:22.147 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:13:22.494 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:13:22.509 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2964 ms
+2022-06-01 22:13:24.074 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:13:24.149 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:13:24.249 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 22:13:24.308 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 5.789 seconds (JVM running for 6.461)
+2022-06-01 22:13:31.636 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:13:31.636 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:13:31.637 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:13:34.243 [http-nio-8080-exec-7] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:15:27.398 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 9783 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:15:27.403 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:15:30.465 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:15:30.467 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 22:15:30.500 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:15:32.005 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 22:15:32.032 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:15:32.034 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:15:32.035 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:15:32.465 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:15:32.466 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4893 ms
+2022-06-01 22:15:35.257 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:15:35.500 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:15:35.679 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 22:15:35.690 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 9.698 seconds (JVM running for 11.116)
+2022-06-01 22:20:25.633 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 10026 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:20:25.661 [main] INFO  com.example.demo.DemoApplication - The following 1 profile is active: "dev"
+2022-06-01 22:20:27.610 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:20:27.616 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 22:20:27.632 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:20:28.415 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 22:20:28.453 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:20:28.454 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:20:28.461 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:20:28.808 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:20:28.809 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2983 ms
+2022-06-01 22:20:30.221 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:20:30.449 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:20:30.534 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 22:20:30.567 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 5.893 seconds (JVM running for 6.581)
+2022-06-01 22:23:43.358 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 10213 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:23:43.363 [main] INFO  com.example.demo.DemoApplication - The following 1 profile is active: "dev"
+2022-06-01 22:23:45.746 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:23:45.748 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 22:23:45.847 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:23:46.982 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 22:23:47.015 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:23:47.017 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:23:47.018 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:23:47.568 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:23:47.573 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3987 ms
+2022-06-01 22:23:49.529 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:23:49.608 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 22:23:49.757 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 22:23:50.010 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 7.946 seconds (JVM running for 9.274)
+2022-06-01 22:23:57.431 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:23:57.432 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:23:57.445 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2022-06-01 22:24:00.470 [http-nio-8080-exec-6] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:24:02.148 [http-nio-8080-exec-7] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:26:23.985 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 10379 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:26:23.994 [main] INFO  com.example.demo.DemoApplication - The following 1 profile is active: "dev"
+2022-06-01 22:26:26.482 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:26:26.487 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:10108/koTime
+2022-06-01 22:26:26.536 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:26:27.351 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10108 (http)
+2022-06-01 22:26:27.453 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:26:27.462 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:26:27.463 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:26:27.937 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:26:27.945 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3661 ms
+2022-06-01 22:26:29.595 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:26:29.661 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:26:29.739 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10108 (http) with context path ''
+2022-06-01 22:26:29.855 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.799 seconds (JVM running for 8.307)
+2022-06-01 22:26:48.285 [http-nio-10108-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:26:48.285 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:26:48.286 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:26:48.371 [http-nio-10108-exec-1] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:27:20.533 [http-nio-10108-exec-9] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:27:26.112 [http-nio-10108-exec-5] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:27:26.287 [http-nio-10108-exec-7] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:27:26.482 [http-nio-10108-exec-8] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:27:26.829 [http-nio-10108-exec-9] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:27:27.112 [http-nio-10108-exec-10] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:28:22.576 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 10525 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:28:22.580 [main] INFO  com.example.demo.DemoApplication - The following 1 profile is active: "dev"
+2022-06-01 22:28:24.797 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:28:24.799 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:10108/koTime
+2022-06-01 22:28:24.898 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:28:26.227 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10108 (http)
+2022-06-01 22:28:26.305 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:28:26.308 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:28:26.310 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:28:26.862 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:28:26.872 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4093 ms
+2022-06-01 22:28:29.239 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:28:29.366 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:28:29.488 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10108 (http) with context path ''
+2022-06-01 22:28:29.521 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 7.922 seconds (JVM running for 9.272)
+2022-06-01 22:28:38.803 [http-nio-10108-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:28:38.805 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:28:38.806 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:28:38.950 [http-nio-10108-exec-1] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:28:46.256 [http-nio-10108-exec-8] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:29:45.507 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 10628 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:29:45.510 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:29:47.675 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:29:47.677 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:10108/koTime
+2022-06-01 22:29:47.746 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:29:48.811 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10108 (http)
+2022-06-01 22:29:48.916 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:29:48.941 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:29:48.944 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:29:49.600 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:29:49.604 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3913 ms
+2022-06-01 22:29:51.117 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:29:51.197 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:29:51.273 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10108 (http) with context path ''
+2022-06-01 22:29:51.290 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.816 seconds (JVM running for 7.478)
+2022-06-01 22:30:11.736 [http-nio-10108-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:30:11.736 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:30:11.737 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:30:14.303 [http-nio-10108-exec-6] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:30:19.763 [http-nio-10108-exec-4] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:16.425 [http-nio-10108-exec-3] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:17.411 [http-nio-10108-exec-5] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:17.946 [http-nio-10108-exec-7] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:18.310 [http-nio-10108-exec-6] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:18.669 [http-nio-10108-exec-8] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:19.018 [http-nio-10108-exec-9] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:19.378 [http-nio-10108-exec-1] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:22.905 [http-nio-10108-exec-10] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:31:52.475 [http-nio-10108-exec-5] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:32:31.931 [http-nio-10108-exec-9] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:37:08.908 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 11060 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:37:08.945 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:37:11.979 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 22:37:12.094 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:37:12.099 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:10108/koTime
+2022-06-01 22:37:12.114 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 22:37:12.290 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:37:13.416 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10108 (http)
+2022-06-01 22:37:13.447 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:37:13.449 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:37:13.450 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:37:13.727 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:37:13.728 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4537 ms
+2022-06-01 22:37:17.259 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:37:17.361 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:37:17.612 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10108 (http) with context path ''
+2022-06-01 22:37:17.647 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 9.845 seconds (JVM running for 11.329)
+2022-06-01 22:37:27.809 [http-nio-10108-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:37:27.811 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:37:27.813 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:37:27.932 [http-nio-10108-exec-1] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:37:59.278 [Thread-2] INFO  class cn.langpy.kotime.data.DataBase - kotime=>closed database connections...
+2022-06-01 22:38:11.135 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 11147 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:38:11.138 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:38:13.426 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 22:38:13.514 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:38:13.516 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:10108/koTime
+2022-06-01 22:38:13.542 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 22:38:13.663 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:38:14.723 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10108 (http)
+2022-06-01 22:38:14.792 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:38:14.793 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:38:14.795 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:38:15.443 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:38:15.444 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4013 ms
+2022-06-01 22:38:17.286 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:38:17.511 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:38:17.560 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10108 (http) with context path ''
+2022-06-01 22:38:17.625 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 7.559 seconds (JVM running for 8.739)
+2022-06-01 22:38:24.022 [http-nio-10108-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:38:24.023 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:38:24.024 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:38:27.699 [http-nio-10108-exec-4] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:40:26.358 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 11272 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:40:26.366 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:40:28.907 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 22:40:28.939 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:40:28.943 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:10108/koTime
+2022-06-01 22:40:28.950 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 22:40:29.007 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:40:29.730 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10108 (http)
+2022-06-01 22:40:29.764 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:40:29.765 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:40:29.766 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:40:30.099 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:40:30.104 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3514 ms
+2022-06-01 22:40:31.479 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:40:31.607 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:40:31.673 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10108 (http) with context path ''
+2022-06-01 22:40:31.731 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.536 seconds (JVM running for 7.343)
+2022-06-01 22:40:44.369 [http-nio-10108-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:40:44.371 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:40:44.395 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 21 ms
+2022-06-01 22:40:44.504 [http-nio-10108-exec-1] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:41:27.371 [http-nio-10108-exec-3] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:41:34.886 [http-nio-10108-exec-8] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:45:47.081 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 11702 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:45:47.093 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:45:50.069 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 22:45:50.177 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:45:50.189 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:10108/koTime
+2022-06-01 22:45:50.198 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 22:45:50.238 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:45:51.251 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10108 (http)
+2022-06-01 22:45:51.342 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:45:51.343 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:45:51.343 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:45:52.118 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:45:52.121 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4881 ms
+2022-06-01 22:45:54.884 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:45:54.945 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10108"]
+2022-06-01 22:45:55.225 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10108 (http) with context path ''
+2022-06-01 22:45:55.239 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 8.902 seconds (JVM running for 10.12)
+2022-06-01 22:46:05.018 [http-nio-10108-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:46:05.018 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:46:05.019 [http-nio-10108-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:46:05.158 [http-nio-10108-exec-1] INFO  com.example.demo.DemoApplication - name:xxxxdsfds
+2022-06-01 22:46:05.165 [http-nio-10108-exec-1] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$ef5f28d2.hello()，耗时=11.0毫秒
+2022-06-01 22:49:27.103 [Thread-3] INFO  class cn.langpy.kotime.data.DataBase - kotime=>closed database connections...
+2022-06-01 22:49:41.402 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 11894 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:49:41.405 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:49:42.944 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 22:49:42.977 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 22:49:42.978 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:80/koTime
+2022-06-01 22:49:43.012 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 22:49:43.053 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 22:49:43.655 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2022-06-01 22:49:43.704 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2022-06-01 22:49:43.753 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:49:43.754 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:49:44.121 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:49:44.122 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2532 ms
+2022-06-01 22:49:46.659 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 22:49:46.751 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2022-06-01 22:49:46.818 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2022-06-01 22:49:46.853 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.897 seconds (JVM running for 8.321)
+2022-06-01 22:49:59.129 [http-nio-80-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 22:49:59.130 [http-nio-80-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 22:49:59.131 [http-nio-80-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 22:50:54.965 [http-nio-80-exec-1] INFO  com.example.demo.DemoApplication - name:dd
+2022-06-01 22:50:54.977 [http-nio-80-exec-1] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$d244c612.hello()，耗时=13.0毫秒
+2022-06-01 22:51:16.586 [http-nio-80-exec-7] INFO  org.apache.coyote.http11.Http11Processor - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x040x000x000x000xc00x070x000x000x030x000x000x000x8a0xcaU0x1cROe8ztvwG0x0d0x0580x050x1c0x0b0x000x1fk0xcai0xa60xe90x0f0x810x0au0x8fG0x8eT0xa19r0x8b0xc3i0x9e70xd90xa80x1bU0xefR ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:419)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2022-06-01 22:51:18.487 [http-nio-80-exec-4] INFO  com.example.demo.DemoApplication - name:dd
+2022-06-01 22:51:18.489 [http-nio-80-exec-4] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$d244c612.hello()，耗时=0.0毫秒
+2022-06-01 22:51:18.496 [Thread-5] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication.hello()，耗时=7.88毫秒
+2022-06-01 22:53:16.590 [http-nio-80-exec-5] INFO  org.apache.coyote.http11.Http11Processor - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x040x000x000x000xc00x070x000x000x030x000x000x000x8a0xcaU0x1cROe8ztvwG0x0d0x0580x050x1c0x0b0x000x1fk0xcai0xa60xe90x0f0x810x0au0x8fG0x8eT0xa19r0x8b0xc3i0x9e70xd90xa80x1bU0xefR ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:419)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2022-06-01 22:55:41.791 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 12241 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 22:55:41.835 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 22:55:44.347 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2022-06-01 22:55:44.440 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2022-06-01 22:55:44.442 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 22:55:44.443 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 22:55:44.785 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 22:55:44.786 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2784 ms
+2022-06-01 22:55:44.926 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'authHandler': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [cn.langpy.kotime.handler.AuthHandler] from ClassLoader [sun.misc.Launcher$AppClassLoader@6d06d69c]
+2022-06-01 22:55:44.930 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-06-01 22:55:44.986 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-06-01 22:55:45.015 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'authHandler': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [cn.langpy.kotime.handler.AuthHandler] from ClassLoader [sun.misc.Launcher$AppClassLoader@6d06d69c]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:289)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1302)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1219)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:19)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [cn.langpy.kotime.handler.AuthHandler] from ClassLoader [sun.misc.Launcher$AppClassLoader@6d06d69c]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:485)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:321)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:267)
+	... 18 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/aspectj/lang/ProceedingJoinPoint
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+	at java.lang.Class.getDeclaredMethods(Class.java:1975)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:467)
+	... 20 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.aspectj.lang.ProceedingJoinPoint
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:355)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 24 common frames omitted
+2022-06-01 23:11:44.804 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 13620 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 23:11:44.808 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-06-01 23:11:46.983 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 23:11:47.027 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 23:11:47.036 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:80/koTime
+2022-06-01 23:11:47.038 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 23:11:47.103 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 23:11:48.243 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2022-06-01 23:11:48.270 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2022-06-01 23:11:48.271 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 23:11:48.274 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 23:11:48.723 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 23:11:48.728 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3766 ms
+2022-06-01 23:11:50.305 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 23:11:50.417 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2022-06-01 23:11:50.525 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2022-06-01 23:11:50.549 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.77 seconds (JVM running for 8.132)
+2022-06-01 23:11:57.277 [http-nio-80-exec-1] INFO  org.apache.coyote.http11.Http11Processor - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x040x000x000x000xc00x070x000x000x030x000x000x000x8a0xcaU0x1cROe8ztvwG0x0d0x0580x050x1c0x0b0x000x1fk0xcai0xa60xe90x0f0x810x0au0x8fG0x8eT0xa19r0x8b0xc3i0x9e70xd90xa80x1bU0xefR ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:419)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2022-06-01 23:12:57.940 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+2022-06-01 23:12:57.946 [main] INFO  o.s.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-06-01 23:12:57.946 [main] INFO  o.s.t.c.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-06-01 23:12:58.115 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.DemoApplicationTests
+2022-06-01 23:12:58.359 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-06-01 23:12:58.408 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@4a07d605, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@74287ea3, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@7d7758be, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@2bdd8394, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5f9edf14, org.springframework.test.context.support.DirtiesContextTestExecutionListener@68746f22, org.springframework.test.context.event.EventPublishingTestExecutionListener@2f01783a, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@68878f6d, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@41488b16, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@a8ef162, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@2eea88a1, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@7ac296f6, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@7fd7a283]
+2022-06-01 23:12:59.369 [main] INFO  com.example.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_161 on wangguanghuideMacBook-Pro.local with PID 13781 (started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 23:12:59.371 [main] INFO  com.example.demo.DemoApplicationTests - The following 1 profile is active: "koTime"
+2022-06-01 23:13:01.476 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 23:13:01.511 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 23:13:01.514 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 23:13:01.518 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 23:13:01.542 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 23:13:04.462 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 23:13:04.630 [main] INFO  com.example.demo.DemoApplicationTests - Started DemoApplicationTests in 6.123 seconds (JVM running for 7.994)
+2022-06-01 23:13:05.291 [Thread-2] INFO  class cn.langpy.kotime.data.DataBase - kotime=>closed database connections...
+2022-06-01 23:13:57.678 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+2022-06-01 23:13:57.683 [main] INFO  o.s.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-06-01 23:13:57.684 [main] INFO  o.s.t.c.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-06-01 23:13:57.845 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.DemoApplicationTests
+2022-06-01 23:13:57.982 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-06-01 23:13:58.011 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@a8ef162, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2eea88a1, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@7ac296f6, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7fd7a283, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@22f59fa, org.springframework.test.context.support.DirtiesContextTestExecutionListener@78fa769e, org.springframework.test.context.event.EventPublishingTestExecutionListener@16612a51, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@54e041a4, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2c78324b, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@79defdc, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@18317edc, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@4e0ae11f, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@238d68ff]
+2022-06-01 23:13:59.405 [main] INFO  com.example.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_161 on wangguanghuideMacBook-Pro.local with PID 13936 (started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 23:13:59.407 [main] INFO  com.example.demo.DemoApplicationTests - The following 1 profile is active: "koTime"
+2022-06-01 23:14:01.566 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 23:14:01.611 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 23:14:01.611 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 23:14:01.614 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 23:14:01.638 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 23:14:06.766 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 23:14:06.984 [main] INFO  com.example.demo.DemoApplicationTests - Started DemoApplicationTests in 8.907 seconds (JVM running for 10.717)
+2022-06-01 23:14:18.272 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 13985 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 23:14:18.276 [main] INFO  com.example.demo.DemoApplication - The following 1 profile is active: "koTime"
+2022-06-01 23:14:20.597 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 23:14:20.637 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 23:14:20.639 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 23:14:20.646 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 23:14:20.702 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 23:14:22.077 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 23:14:22.125 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 23:14:22.126 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 23:14:22.127 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 23:14:22.576 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 23:14:22.577 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4077 ms
+2022-06-01 23:14:25.857 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 23:14:26.005 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 23:14:26.083 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 23:14:26.092 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 8.739 seconds (JVM running for 10.133)
+2022-06-01 23:14:33.741 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 23:14:33.741 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 23:14:33.742 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 23:14:38.232 [http-nio-8080-exec-2] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 23:14:38.242 [http-nio-8080-exec-2] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$f3fcf974.hello()，耗时=9.0毫秒
+2022-06-01 23:14:43.066 [http-nio-8080-exec-3] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 23:14:43.066 [http-nio-8080-exec-3] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$f3fcf974.hello()，耗时=0.0毫秒
+2022-06-01 23:14:43.265 [http-nio-8080-exec-4] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 23:14:43.265 [http-nio-8080-exec-4] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$f3fcf974.hello()，耗时=0.0毫秒
+2022-06-01 23:14:43.474 [http-nio-8080-exec-5] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 23:14:43.474 [http-nio-8080-exec-5] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$f3fcf974.hello()，耗时=0.0毫秒
+2022-06-01 23:14:43.797 [http-nio-8080-exec-6] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 23:14:43.797 [http-nio-8080-exec-6] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$f3fcf974.hello()，耗时=0.0毫秒
+2022-06-01 23:14:43.988 [http-nio-8080-exec-7] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 23:14:43.988 [http-nio-8080-exec-7] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$f3fcf974.hello()，耗时=0.0毫秒
+2022-06-01 23:14:54.699 [http-nio-8080-exec-8] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 23:14:54.700 [http-nio-8080-exec-8] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$f3fcf974.hello()，耗时=0.0毫秒
+2022-06-01 23:15:30.120 [http-nio-8080-exec-6] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'param1' for method parameter type String is not present]
+2022-06-01 23:16:00.398 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'param2' for method parameter type String is not present]
+2022-06-01 23:16:41.014 [http-nio-8080-exec-4] INFO  com.example.demo.TestLogController - Processing trade with param1:[1] and param2: [2] 
+2022-06-01 23:16:42.998 [http-nio-8080-exec-10] INFO  com.example.demo.TestLogController - Processing trade with param1:[1] and param2: [2] 
+2022-06-01 23:20:26.281 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_333 on wangguanghuideMacBook-Pro.local with PID 14282 (/Users/wangguanghui/Desktop/spring/demo/target/classes started by wangguanghui in /Users/wangguanghui/Desktop/spring/demo)
+2022-06-01 23:20:26.303 [main] INFO  com.example.demo.DemoApplication - The following 1 profile is active: "koTime"
+2022-06-01 23:20:28.180 [main] WARN  class cn.langpy.kotime.config.LoadConfig - kotime=>No qualifying bean of type 'DataSource' available,but you can ignore it if your KoTime saver is `ko-time.saver=memory`
+2022-06-01 23:20:28.192 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading config
+2022-06-01 23:20:28.193 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>view:http://localhost:8080/koTime
+2022-06-01 23:20:28.199 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading InvokedHandler:KoInvokedHandler
+2022-06-01 23:20:28.241 [main] INFO  class cn.langpy.kotime.config.LoadConfig - kotime=>loading method listener
+2022-06-01 23:20:29.143 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-06-01 23:20:29.159 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-01 23:20:29.163 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-01 23:20:29.164 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 23:20:29.823 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-01 23:20:29.825 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3408 ms
+2022-06-01 23:20:32.204 [main] WARN  o.s.b.a.freemarker.FreeMarkerAutoConfiguration - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-06-01 23:20:32.267 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-06-01 23:20:32.338 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 23:20:32.361 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 6.723 seconds (JVM running for 7.852)
+2022-06-01 23:20:47.423 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-01 23:20:47.425 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-01 23:20:47.426 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-01 23:20:47.480 [http-nio-8080-exec-1] INFO  com.example.demo.DemoApplication - name:World
+2022-06-01 23:20:47.482 [http-nio-8080-exec-1] INFO  class cn.langpy.kotime.util.Common - 调用方法=com.example.demo.DemoApplication$$EnhancerBySpringCGLIB$$86d33b79.hello()，耗时=7.0毫秒
+2022-06-01 23:21:03.183 [http-nio-8080-exec-4] INFO  com.example.demo.TestLogController - Processing trade with param1:[1] and param2: [2] 
+2022-06-01 23:21:03.191 [http-nio-8080-exec-4] INFO  com.example.demo.UserService - test
+2022-06-01 23:21:05.158 [http-nio-8080-exec-5] INFO  com.example.demo.TestLogController - Processing trade with param1:[1] and param2: [2] 
+2022-06-01 23:21:05.160 [http-nio-8080-exec-5] INFO  com.example.demo.UserService - test
+2022-06-01 23:21:12.200 [http-nio-8080-exec-2] INFO  com.example.demo.TestLogController - Processing trade with param1:[1] and param2: [2] 
+2022-06-01 23:21:12.200 [http-nio-8080-exec-2] INFO  com.example.demo.UserService - test
